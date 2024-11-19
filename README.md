@@ -11,7 +11,7 @@ Hello! I'm a software developer with experience in various technologies. Current
 ## Work Experience
 
 - **Fullstack Developer at GMJ Global Energy**  
-  *[May, 2023] - Present*  
+  *[May, 2023] - [Nov, 2024]*  
   Responsible for developing and maintaining web applications using Next.js and TypeScript.
 
 - **Backend Developer Bootcamp**  
