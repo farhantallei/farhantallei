@@ -10,6 +10,10 @@ Hello! I'm a software developer with experience in various technologies. Current
 
 ## Work Experience
 
+- **Backend Developer at PT Sarana Amal Indonesia**
+  *[Feb, 2025] - Present*
+  Building and maintaining backend services using Express, Hono, JavaScript, TypeScript, Nest.js, and Postgres. Occasionally, I tackle CMS projects with Angular (the classic v1, not the modern webapp) and Next.js (with shadcn). Successfully led a rapid rewrite of the BigAmal frontend (bigamal.com) with Next.js in just one month. Spearheaded the migration of our Express codebase from JavaScript to TypeScript, wrangled a hefty pile of legacy code, and switched our runtime from Node.js to Bun for a snappier developer experience.
+
 - **Fullstack Developer at GMJ Global Energy**  
   *[May, 2023] - [Nov, 2024]*  
   Responsible for developing and maintaining web applications using Next.js and TypeScript.
@@ -33,3 +37,7 @@ I'm always open to collaboration and discussions. Feel free to reach out to me a
 - [LinkedIn](https://www.linkedin.com/in/farhan-pradana-tallei-1bb340288/)
 
 Thank you for visiting my profile!
+
+## 🧮 Stats
+
+[![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhantallei&show_icons=true&count_private=true)](https://github.com/farhantallei)
