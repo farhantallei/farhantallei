@@ -33,6 +33,17 @@ Here are some projects I've worked on:
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farhantallei&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
 
+## My Stuff
+
+![WezTerm](https://img.shields.io/badge/WezTerm-4D4D4D?style=flat&logo=wezterm&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
 ## Contact
 
 I'm always open to collaboration and discussions. Feel free to reach out to me at:
