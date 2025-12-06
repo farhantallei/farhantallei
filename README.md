@@ -30,6 +30,9 @@ Here are some projects I've worked on:
 - [Project Name 2](link-to-project): A brief description of this project.
 - [Project Name 3](link-to-project): A brief description of this project. -->
 
+## Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farhantallei&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
+
 ## Contact
 
 I'm always open to collaboration and discussions. Feel free to reach out to me at:
