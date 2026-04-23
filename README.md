@@ -40,10 +40,10 @@ Here are some projects I've worked on:
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
 ## Contact
 
