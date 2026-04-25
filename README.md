@@ -33,6 +33,9 @@ Here are some projects I've worked on:
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farhantallei&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
 
+## Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhantallei&theme=github_dark)
+
 ## My Stuff
 
 ![WezTerm](https://img.shields.io/badge/WezTerm-4D4D4D?style=flat&logo=wezterm&logoColor=white)
