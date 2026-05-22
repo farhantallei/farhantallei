@@ -37,7 +37,7 @@ The loop: audit each frontend page → test the backend → ship to staging → 
 
 ## GitHub Stats
 
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhantallei&show_icons=true&hide_border=true&theme=tokyonight)
+![Farhan's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhantallei&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=farhantallei&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhantallei&hide_border=true&theme=tokyo-night)
