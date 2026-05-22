@@ -1,20 +1,29 @@
 # Hi, I'm Farhan 👋
 
-> Fullstack engineer shifting from *writing* code to *orchestrating* it — building an AI-native engineering workflow.
+> I don't just *write* code with AI — I **orchestrate** it.
 
-I'm a **Fullstack Developer** (Next.js + TypeScript on the frontend, Node/Bun + Postgres on the backend) with 2+ years shipping and maintaining production web apps. These days my work is less about typing code and more about **orchestration**: using AI to coordinate frontend and backend, hold context across large systems, run audits and merges, and keep complex codebases coherent under pressure.
+I'm an **AI-native engineer**. My job isn't typing faster; it's keeping complex systems coherent. AI now handles a growing share of the implementation, which means my real work has moved up the stack — to orchestration, context management, validation, and the decisions that hold everything together.
 
-My working thesis: **AI doesn't just speed up coding — it moves the bottleneck from writing code to orchestration, validation, and decision-making.** That's the kind of engineer I'm building myself into.
+A thesis I keep coming back to:
 
-## What I'm working on
+> **AI doesn't just speed up coding. It moves the bottleneck — from writing code to orchestration, validation, and decision-making.**
 
-Right now I'm leading the **consolidation of a multi-service system** — collapsing several backends, frontends, and databases into a single unified architecture (one backend, one worker, one scheduler, multiple frontends) — solo, while keeping production alive and shipping new features.
+Throughput goes way up. But responsibility, judgment, and coherence stay human. That gap is exactly where I work.
 
-AI sits at the center of how I run it:
+## How I work
 
-- **Orchestration** — coordinating frontend/backend changes and keeping context in sync across projects
-- **Merge & migration** — assisted merges, conflict resolution, and cross-branch cherry-picks without dropping patches
-- **Engineering hygiene** — audits, testing, tracing, and integration validation that used to get skipped now actually get done
+I operate less like a coder and more like a **tech lead orchestrating a system** — even when I'm the only one on it:
+
+- **Orchestration** — coordinating frontend and backend in lockstep, holding context across several projects at once so nothing drifts out of sync.
+- **Externalized state** — the real enemy isn't writing code, it's *losing track of state*. So I run explicit war boards and checklists for merges, audits, and tests instead of carrying it all in my head.
+- **Validation & decisions** — AI generates options cheaply; the value is in choosing, validating, and saying no. I own correctness and direction.
+- **Engineering hygiene, finally realistic** — audit, testing, tracing, cleanup, integration validation. The work that always got skipped because implementation was exhausting now actually gets done.
+
+## What that looks like in practice
+
+Right now I'm consolidating a tangle of services — several backends, frontends, and databases — into one unified architecture: a single backend, one worker, one scheduler, a handful of frontends. Solo. While production stays live and new features keep shipping.
+
+The loop: audit each frontend page → test the backend → ship to staging → merge the next service → repeat, all while keeping the main branch and the consolidation in sync without dropping a single patch. It's the kind of work where AI as an orchestration layer isn't a nice-to-have — it's what makes doing it solo possible at all.
 
 ## Technologies I Use
 
@@ -24,21 +33,7 @@ AI sits at the center of how I run it:
 - **Data:** PostgreSQL
 - **AI workflow:** Claude as an orchestration layer for day-to-day engineering
 
-> I started backend in **Java/Quarkus** (a 2-month bootcamp) and now build mostly on the **TypeScript/Bun** ecosystem.
-
-## Work Experience
-
-<!-- - **Backend Developer at PT Sarana Amal Indonesia**  
-  *Feb 2025 – Present*  
-  Building and maintaining backend services with Express, Hono, Nest.js, TypeScript, and Postgres, plus CMS work in Angular and Next.js (shadcn/ui). Led a one-month rewrite of the BigAmal frontend ([bigamal.com](https://bigamal.com)) in Next.js, migrated the Express codebase from JavaScript to TypeScript, and switched the runtime from Node.js to Bun. Currently driving an AI-assisted consolidation of multiple services into a single unified architecture. -->
-
-- **Fullstack Developer at GMJ Global Energy**  
-  *May 2023 – Nov 2024*  
-  Developed and maintained web applications with Next.js and TypeScript.
-
-- **Backend Developer Bootcamp**  
-  *Jan 2023 – Mar 2023*  
-  Backend development with Java and Quarkus.
+> Background spans fullstack product work across the TypeScript/Bun ecosystem, with backend roots in Java/Quarkus.
 
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farhantallei&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
