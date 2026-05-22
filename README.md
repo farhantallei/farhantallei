@@ -29,7 +29,7 @@ The loop: audit each frontend page → test the backend → ship to staging → 
 
 - **Languages:** TypeScript (primary) · Rust (exploring)
 - **Frontend:** Next.js · React · Tailwind · shadcn/ui
-- **Backend:** Node.js · Bun · Hono · Express · Nest.js
+- **Backend:** Node.js · Bun · Hono · Express
 - **Data:** PostgreSQL
 - **AI workflow:** Claude as an orchestration layer for day-to-day engineering
 
