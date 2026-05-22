@@ -27,19 +27,20 @@ The loop: audit each frontend page → test the backend → ship to staging → 
 
 ## Technologies I Use
 
-- **Languages:** TypeScript (primary) · JavaScript · Java · Rust (exploring)
+- **Languages:** TypeScript (primary) · Rust (exploring)
 - **Frontend:** Next.js · React · Tailwind · shadcn/ui
-- **Backend:** Node.js · Bun · Hono · Express · Nest.js · Quarkus
+- **Backend:** Node.js · Bun · Hono · Express
 - **Data:** PostgreSQL
 - **AI workflow:** Claude as an orchestration layer for day-to-day engineering
 
-> Background spans fullstack product work across the TypeScript/Bun ecosystem, with backend roots in Java/Quarkus.
+> Background spans fullstack product work across the TypeScript/Bun ecosystem.
 
-## Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farhantallei&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
+## GitHub Stats
 
-## Profile Summary
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhantallei&theme=github_dark)
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhantallei&show_icons=true&hide_border=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=farhantallei&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhantallei&hide_border=true&theme=tokyo-night)
 
 ## My Stuff
 
