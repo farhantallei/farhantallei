@@ -27,13 +27,13 @@ The loop: audit each frontend page → test the backend → ship to staging → 
 
 ## Technologies I Use
 
-- **Languages:** TypeScript (primary) · JavaScript · Java · Rust (exploring)
+- **Languages:** TypeScript (primary) · Rust (exploring)
 - **Frontend:** Next.js · React · Tailwind · shadcn/ui
-- **Backend:** Node.js · Bun · Hono · Express · Nest.js · Quarkus
+- **Backend:** Node.js · Bun · Hono · Express · Nest.js
 - **Data:** PostgreSQL
 - **AI workflow:** Claude as an orchestration layer for day-to-day engineering
 
-> Background spans fullstack product work across the TypeScript/Bun ecosystem, with backend roots in Java/Quarkus.
+> Background spans fullstack product work across the TypeScript/Bun ecosystem.
 
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farhantallei&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
